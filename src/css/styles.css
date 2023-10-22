@@ -1,0 +1,9 @@
+.card{
+    border-radius: 25px;
+}
+.pie-cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
